@@ -1,0 +1,161 @@
+div
+{
+    border-radius: 5px;
+    }
+
+#footer
+{
+    top: 5px;
+    text-align: center;
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: #85720b;
+    }
+    
+#lift
+{
+    padding-top: 30px;
+    float: left;
+    height: 121.5%;
+    width: 25%;
+    background-color: rgb(206, 195, 96);
+
+}
+#photo
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+    margin-left: 85px;
+}
+#na{
+    padding-left: 110px;
+}
+#right
+{
+    margin-top: 1px;
+    float: right;
+    height: 65%;
+    width: 74.5%;
+    background-color:rgb(206, 195, 96); 
+}
+#under
+{
+    margin-top: 5px;
+    float: right;
+    width: 74.5%;
+    height: 60%;
+    background-color: rgb(206, 195, 96);
+}  
+#hh{
+    padding-left: 20px;
+    color: rgba(71, 69, 69, 0.9);
+}
+#pp
+{
+    padding-left: 30px;
+    color: rgba(71, 69, 69, 0.9);
+ 
+}
+.green__p {
+    font-size: 15px;
+    color: rgba(0, 128, 111, 0.89);
+    margin-bottom: 15px;
+}
+.main__aside p span{
+    font-size: 15px;
+    color: rgba(0, 128, 111, 0.89);
+    margin-right: 15px;
+}
+.green__p input{
+    color: #fff;
+    background-color:rgba(0, 128, 111, 0.89);
+    border: none;
+    outline: none;padding: 2px 3px;
+}
+.black__p{
+    margin-bottom: 20px;
+}
+p
+{
+    padding-left: 50px;
+}
+.line__seperat
+{     
+    width: 95%;
+    height: 1px;
+    margin: 0 auto;
+    background-color: #888888;
+}
+.left__section ul{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    list-style: none;
+    flex-direction: column;
+    /* border:1px solid green; */
+    padding: 10px;
+}
+.left__section ul li span{
+    color: green;
+    /* border: 1px solid red;  */
+    margin-right: 12px; 
+}
+.line__seperat{       /* line special*/
+    width: 95%;
+    height: 1px;
+    margin: 0 auto;
+    background-color: #888888;
+}
+.Skills{
+    padding-left: 10px;
+    /* border:1px red solid; */
+    width: 25%;
+    justify-content: space-around;
+}
+.Skills span{
+    color: green;
+}
+.skill__part{
+    justify-content: space-between;
+    height: 25px;
+    padding: 10px;
+}
+.percent_skill{
+    width: 95%;
+    height: 13px;
+    border-radius: 50px;
+    background-color: gray;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+}
+.special__percentage{
+    width: 90%;
+    height: 100%;
+    border-radius: 50px;
+    background-color: rgba(0, 128, 117, 0.808);
+}
+.percentage_50{
+    width: 50%;
+}
+.percentage_75{
+    width: 75%;
+}
+.percentage_80{
+    width: 80%;
+}
+.languages{
+    width:40%;
+}
+.percentage_100{
+    width:100%;
+    
+}
+.percentage_25{
+    width:25%; 
+}
+.language__skill .percent_skill{
+    height: 13px;
+}
